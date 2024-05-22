@@ -1,4 +1,4 @@
-package com.firebasechatboatjetpackcompose.ui.theme
+package com.firebasedatabasejetpackcompose.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

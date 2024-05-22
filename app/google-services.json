@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1075410508771",
+    "project_id": "fir-chatboatjetpackcompose",
+    "storage_bucket": "fir-chatboatjetpackcompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075410508771:android:eb0ccfc15d05a016dd5ed6",
+        "android_client_info": {
+          "package_name": "com.firebasechatboatjetpackcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP2786QDaY7LpN6sQvAOCoSH-uqPOwoQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075410508771:android:d812d31e01847a23dd5ed6",
+        "android_client_info": {
+          "package_name": "com.firebasedatabasejetpackcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP2786QDaY7LpN6sQvAOCoSH-uqPOwoQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

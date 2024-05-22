@@ -1,4 +1,4 @@
-package com.firebasechatboatjetpackcompose
+package com.firebasedatabasejetpackcompose
 
 import org.junit.Test
 
